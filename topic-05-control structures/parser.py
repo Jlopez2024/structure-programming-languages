@@ -261,7 +261,7 @@ def test_while_statement():
                                        'right': 1.0}}}]}
 
 if __name__ == "__main__":
-    # test_parse()
+    test_parse()
     # test_parse_with_identifier()
     # test_parse_unary_negation()
     # test_parse_assignment() ### TODO ###
